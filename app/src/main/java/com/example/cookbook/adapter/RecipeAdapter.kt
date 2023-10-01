@@ -45,7 +45,7 @@ class RecipeAdapter(
         t.selectedRecipe = recipe
 
         t.card.setOnClickListener {
-            var id = recipe.recipe_id
+            var id = recipe.id
             val gecis =
                 HomeFragmentDirections.actionHomeFragmentToDetailFragment(recipeId = id)
             Navigation.gecisYap(it, gecis)

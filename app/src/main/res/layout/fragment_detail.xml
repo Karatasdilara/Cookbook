@@ -45,7 +45,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Yemek Adı"
-                android:text="@{recipeObject.recipe_name}" />
+                android:text="@{recipeObject.name}" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <ScrollView
@@ -72,7 +72,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Tarif"
-                    android:text="@{recipeObject.recipe_content}" />
+                    android:text="@{recipeObject.description}" />
             </com.google.android.material.textfield.TextInputLayout>
         </ScrollView>
 

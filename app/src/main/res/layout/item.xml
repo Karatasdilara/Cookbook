@@ -30,7 +30,7 @@
                 android:layout_marginEnd="16dp"
                 android:layout_marginBottom="16dp"
                 android:fontFamily="serif"
-                android:text="@{selectedRecipe.recipe_name}"
+                android:text="@{selectedRecipe.name}"
                 android:textSize="16sp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="parent"

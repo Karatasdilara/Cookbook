@@ -35,7 +35,7 @@ class DetailViewModel  @Inject constructor (var rrepo : RecipeRepo): ViewModel()
             val response = rrepo.recipeUpdate(recipe)
             withContext(Dispatchers.Main) {
                 if (response.isSuccessful) {
-                    recipeDetail(recipe.recipe_id)
+                    recipeDetail(recipe.id)
                 } else {
                     recipeToast.value = response.body()?.message
                 }

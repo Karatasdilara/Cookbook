@@ -20,7 +20,6 @@
             android:id="@+id/toolbarAdd"
             android:layout_width="409dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="4dp"
             android:background="?attr/colorOnError"
             android:minHeight="?attr/actionBarSize"
             android:theme="?attr/actionBarTheme"
