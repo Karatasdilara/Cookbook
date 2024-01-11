@@ -29,7 +29,6 @@ https://github.com/Karatasdilara/Cookbook/assets/116079552/c03e708c-fe0b-472f-b7
 
 | Recipe List | SearchView |
 | ---------------------------- | ---------------------------- |
-| https://github.com/Karatasdilara/Cookbook/assets/116079552/f4831efc-ac9f-4472-bc15-28c2a5d3c2ed |https://github.com/Karatasdilara/Cookbook/assets/116079552/e5da8357-f259-4af1-aacb-7b0af8c42089 |
 |![1698432323172](https://github.com/Karatasdilara/Cookbook/assets/116079552/c02619c9-93b8-41b9-809a-dafcdbf30dc8)| ![1698432323143](https://github.com/Karatasdilara/Cookbook/assets/116079552/4e08b2d9-ddfa-485e-893e-e526daa22a42)|
 
 
