@@ -1,7 +1,7 @@
 # Architecture
 
 ![178852509-172ccb09-fa87-48e7-9c0b-8a6e70783854](https://github.com/Karatasdilara/Cookbook/assets/116079552/c626aa0e-0ab7-4df2-9f77-fbfbded206ff)
-![178852509-172ccb09-fa87-48e7-9c0b-8a6e70783854]<img src="https://fullpath/assets/yourgif.gif](https://github.com/Karatasdilara/Cookbook/assets/116079552/c626aa0e-0ab7-4df2-9f77-fbfbded206ff" width="200" height="200">
+![test image size]<img src="https://fullpath/assets/yourgif.gif](https://github.com/Karatasdilara/Cookbook/assets/116079552/f4831efc-ac9f-4472-bc15-28c2a5d3c2ed" width="200" height="390">
 
 # Tech Stack
 
